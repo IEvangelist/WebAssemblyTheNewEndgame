@@ -19,6 +19,8 @@
 # I @color[red](@fa[heart]) The
 ### @css[twitter](#DeveloperCommunity @fa[twitter])
 
+### @color[lightblue](#GladToBeHere)
+
 ---
 
 # @css[wasm](Wat?!)
@@ -219,7 +221,9 @@ const x = () => fetch("http://api.icndb.com/jokes/random?limitTo=[nerdy]")
 # @css[c](C Lang)
 ### @color[magenta](HTTP GET Request)
 
----?code=source/hello.c&lang=c
+---
+
+@code[c code-reveal-fast](source/hello.c)
 
 @[1-7](LOL: Headers @css[shaking](@fa[meh-o]))
 @[9](Ugh: `main` @css[shaking](@fa[meh-o]))
