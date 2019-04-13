@@ -320,7 +320,7 @@ IEvangelist.Emscripten project. Locally compiling C++ targeting .wasm. Outputs .
 
 ---
 
-## As of @color[grey](Sept. 19<sup>th</sup>)
+## As of @color[grey](April 13<sup>th</sup>)
 #### https://github.com/aspnet/Blazor
 <img class='image-glow' src="assets/blazor-github.png" />
 #### First commit back on @color[cyan](Dec. 5<sup>th</sup> 2017)
