@@ -4,14 +4,22 @@
 
 ---
 
-<img class="me excited" src="assets/me-2.png" height="600" />
+<img class="me" src="assets/me-2.png" height="600" />
 
-@snap[west]
+@snap[south-west]
 [@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
 @snapend
 
-@snap[east]
+@snap[north-west img-fit]
+![Most Valuable Professional](assets/mvp.png)
+@snapend
+
+@snap[south-east]
 [davidpine.net @color[red](@fa[globe])](http://davidpine.net/)
+@snapend
+
+@snap[north-east img-fit]
+![Google Developer Expert](assets/gde.png)
 @snapend
 
 ---
